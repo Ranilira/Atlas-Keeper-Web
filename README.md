@@ -3,7 +3,7 @@
 O propósito do projeto consiste no desenvolvimento do Aplicativo Atlas Keeper para plataforma Web, focado no gerenciamento de senhas. Além disso a formação de senhas e o preenchimento automático delas também serão uma função disponível dentro do aplicativo.  A audiência a qual nosso app irá alcançar serão pessoas preocupadas em melhorar sua segurança digital. 
 
 #### 🔗 Tecnologia utilizada para desenvolver o aplicativo:
-- [Pycharm ](https://developer.android.com/studio?hl=pt-br](https://www.jetbrains.com/pt-br/pycharm/)
+- [Pycharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [NOSQL](https://aws.amazon.com/pt/pm/dynamodb/?trk=1da661c8-1796-4ab6-9272-4cdb6af1dd1d&sc_channel=ps&ef_id=CjwKCAjwl6-3BhBWEiwApN6_kvJAaD-Ed4puAjLekhjSR6YOWFYigf051UlskPa803fR0_L-ws47OBoC14wQAvD_BwE:G:s&s_kwcid=AL!4422!3!709180596953!e!!g!!%5Bnosql%20database%5D!21584980519!165254371399)
 - [Git](https://git-scm.com/)
 - [GitKraken](https://www.gitkraken.com/)
